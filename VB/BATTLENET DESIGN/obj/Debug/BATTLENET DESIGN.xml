@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BATTLENET DESIGN
+</name>
+</assembly>
+<members>
+<member name="T:BATTLENET_DESIGN.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.apple_icon_57x57">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.CaptSSure_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_apple_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_faceboo2k_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_facebook_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_facebook3_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_facebook4_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_google_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_hide_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_hide_15__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_nintendo_switch_logo_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_playstation_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_playstation2_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_steam_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_xbox_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BATTLENET_DESIGN.My.Resources.Resources.icons8_xbox2_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
