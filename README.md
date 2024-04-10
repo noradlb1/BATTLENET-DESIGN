@@ -2,7 +2,9 @@
 BATTLENET-DESIGN
 
 
+<b>BATTLENET DESIGN Gif.</b>
+
+
 ![](sample.gif)
 
 
-<b>BATTLENET DESIGN Gif.</b>
