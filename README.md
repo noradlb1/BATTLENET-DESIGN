@@ -2,5 +2,5 @@
 BATTLENET-DESIGN
 
 
-![](sample.jpg)
-<b>DLL INJECTOR.</b>
+![](sample.gif)
+<b>BATTLENET DESIGN Gif.</b>
